@@ -1,0 +1,16 @@
+.cards {
+  margin: 2em;
+  background-color: #a6c0db;
+  padding: 20px;
+  width: 10cm;
+}
+
+.cards section {
+  background-color: khaki;
+  padding: 20px;
+}
+
+.cards #no-task {
+  color: green;
+}
+/*# sourceMappingURL=todo-app.css.map */

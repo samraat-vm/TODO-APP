@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAA;EACF,MAAM,EAAE,GAAG;EACX,gBAAgB,EAAE,OAAO;EACzB,OAAO,EAAE,IAAI;EACb,KAAK,EAAC,IAAI;CAUb;;AAdD,AAKI,MALE,CAKF,OAAO,CAAA;EACH,gBAAgB,EAAE,KAAK;EACvB,OAAO,EAAC,IAAI;CAEf;;AATL,AAUI,MAVE,CAUF,QAAQ,CAAA;EACJ,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "todo-app.scss"
+    ],
+    "names": [],
+    "file": "todo-app.css"
+}
